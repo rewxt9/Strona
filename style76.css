@@ -800,6 +800,12 @@
         
 
         @media (max-width: 576px) {
+            .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            text-decoration: none;
+        }
             .hero {
                 height: 80vh;
             }
